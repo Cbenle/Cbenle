@@ -1,15 +1,3 @@
-
-## 👋 About Me
-
-# Cornelius Benle Tanoel
-
-Ph.D. Student in Statistics & Data Science  
-University of Nevada, Reno  
-
----
-
-## 👤 About Me
-
 ## 👋 About Me
 
 Starting Fall 2026, I will be a third-year Ph.D. student in **Statistics and Data Science**. My research interests include **stochastic finance**, **financial econometrics**, and **data science**, with a focus on applying statistical and computational methods to financial and economic problems.
@@ -30,7 +18,7 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 ## 📄 Curriculum Vitae (CV)
 
 📎 **Download my CV:**  
-[CV – Cornelius Benle Tanoel](link-to-your-cv.pdf)
+[CV – Cornelius Benle Tanoel](https://github.com/Cbenle/Cbenle/blob/main/Benle_Cornelius%20Resume.pdf)
 
 ---
 
@@ -42,7 +30,7 @@ In my spare time, I enjoy spending time with friends and family, listening to mu
 
 ---
 
-_Last updated: 2025_
+_Last updated: December 2025
 
 
 -->
